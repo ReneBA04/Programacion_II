@@ -1,0 +1,35 @@
+/* Estilos para los títulos */
+.titulo1 {
+    font-size: 24px;
+    color: blue;
+    font-family: Arial, sans-serif;
+}
+
+.titulo2 {
+    font-size: 18px;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titulo3 {
+    font-size: 14px;
+    color: red;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+/* Estilos para la tabla */
+.tabla {
+    width: 50%;
+    margin: 0 auto; /* Centra la tabla horizontalmente */
+    border-collapse: collapse; /* Combina los bordes de la tabla en uno solo */
+}
+
+.tabla td {
+    border: 2px solid white; /* Establece los bordes de las celdas */
+    padding: 10px; /* Espacio interno dentro de las celdas */
+    text-align: center; /* Centra el contenido de las celdas horizontalmente */
+}
+
+body{
+    background-image: url(descargar.jfif);
+}
